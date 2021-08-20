@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for XFCE Terminal" src="./screenshot.png">
+  <img alt="Omni screnshoot for XFCE Terminal" src="./screenshot-terminal.png">
 </p>
 
 ## Install
