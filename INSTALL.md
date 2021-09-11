@@ -12,15 +12,15 @@ Download using the [GitHub .zip download](https://github.com/AllanCapistrano/xfc
 
 #### Activating theme
 
-1. Open the projetc folder
+1. Open the projetc folder:
 ```powershell
 $ cd xfce4-terminal
 ```
-2. Create the **colorschemes** folder
+2. Create the **colorschemes** folder:
 ```powershell
 $ mkdir ~/.local/share/xfce4/terminal/colorschemes
 ```
-3. Put `Omni.theme` in `~/.local/share/xfce4/terminal/colorschemes`
+3. Put `Omni.theme` in `~/.local/share/xfce4/terminal/colorschemes`:
 ```powershell
 $ cp Omni.theme ~/.local/share/xfce4/terminal/colorschemes
 ```
